@@ -1,0 +1,6 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink" width="16px" height="14px" xmlns="http://www.w3.org/2000/svg">
+  <g transform="matrix(1 0 0 1 -10 -3 )">
+    <path d="M 5.199999999999999 2.7  L 7.5 5  L 8.5 4  L 4.5 0  L 0.5 4  L 1.5 5  L 4 2.7  L 4 13  L 5.199999999999999 13  L 5.199999999999999 2.7  Z M 15.5 10  L 14.5 9  L 12 11.3  L 12 1  L 10.799999999999999 1  L 10.799999999999999 11.3  L 8.5 9  L 7.5 10  L 11.5 14  L 15.5 10  Z " fill-rule="nonzero" fill="#595859" stroke="none" transform="matrix(1 0 0 1 10 3 )" />
+  </g>
+</svg>
